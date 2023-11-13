@@ -33,7 +33,7 @@ export const users = [
         imageSize: 90,
     },
     {
-        name: 'Jonathanss',
+        name: 'Pichudo',
         imageUrl: 'https://avatars.githubusercontent.com/u/2254731?v=4',
         email: 'dario.c.alve4s@hotmail.com',
         imageSize: 90,
